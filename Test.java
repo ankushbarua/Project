@@ -1,4 +1,4 @@
-package gitup;
+package com.ankush.javascratchpad;
 public class Test
 {
 	  public static void main(String args[])
